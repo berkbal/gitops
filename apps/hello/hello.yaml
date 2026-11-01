@@ -6,7 +6,7 @@ data:
   index.html: |
     <h1 align="center">vov</h1>
     <hr>
-    <h1>align="center">such Dev much Ops</h1>
+    <h1 align="center">such Dev much Ops</h1>
 ---
 apiVersion: apps/v1
 kind: Deployment
