@@ -4,8 +4,8 @@ metadata:
   name: hello-html
 data:
   index.html: |
-    <h1>Merhaba GitOps!</h1>
-    <p>Bu sayfa ArgoCD ile deploy edildi.</p>
+    <h1>vov</h1>
+    <h1 color="blue" align="center">such dev much ops</h1>
 ---
 apiVersion: apps/v1
 kind: Deployment
